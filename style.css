@@ -4,7 +4,7 @@ body{
 .heading{
     font-size: 30px;
     font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
 }
 .highlight{
     background-color:  #accae9;
